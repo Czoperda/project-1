@@ -1,0 +1,600 @@
+City,State,Latitude,Longitude,Order Quantity
+Auburn,Alabama,32.6098566,-85.4807825,3
+Decatur,Alabama,34.6060203,-86.9838165,7
+Florence,Alabama,34.8354577,-87.65968672516482,3
+Hoover,Alabama,33.35029299999999,-86.85112299766301,2
+Huntsville,Alabama,34.729847,-86.5859011,7
+Mobile,Alabama,30.6913462,-88.0437509,4
+Montgomery,Alabama,32.3669656,-86.3006485,6
+Tuscaloosa,Alabama,33.2095614,-87.5675258,2
+Avondale,Arizona,33.4355977,-112.349602,3
+Bullhead City,Arizona,35.1477774,-114.568298,1
+Chandler,Arizona,33.3061605,-111.84125,5
+Gilbert,Arizona,33.3527632,-111.789037,5
+Glendale,Arizona,33.5386858,-112.185994,13
+Mesa,Arizona,33.4151117,-111.8314792,14
+Peoria,Arizona,33.5806115,-112.237294,5
+Phoenix,Arizona,33.4484367,-112.074141,29
+Scottsdale,Arizona,33.4942189,-111.9260184,7
+Sierra Vista,Arizona,31.5545973,-110.2997756,2
+Tempe,Arizona,33.4255056,-111.9400091,6
+Tucson,Arizona,32.2228765,-110.9748477,13
+Yuma,Arizona,32.6926543,-114.6275386,4
+Conway,Arkansas,35.0891932,-92.4398402,1
+Fayetteville,Arkansas,36.0625843,-94.1574328,8
+Hot Springs,Arkansas,34.5038393,-93.0552437,2
+Jonesboro,Arkansas,35.8272257,-90.6949871,5
+Little Rock,Arkansas,34.7465071,-92.2896267,6
+Pine Bluff,Arkansas,34.2157064,-92.0140402,1
+Rogers,Arkansas,36.3330154,-94.1166283,1
+Springdale,Arkansas,36.1867442,-94.1288142,1
+Texarkana,Arkansas,33.4254259,-94.0430937,2
+Anaheim,California,33.8347516,-117.911732,7
+Antioch,California,38.0049214,-121.805789,1
+Apple Valley,California,34.5008311,-117.1858759,3
+Bakersfield,California,35.3738712,-119.0194639,8
+Brentwood,California,37.9317766,-121.696026,6
+Burbank,California,34.1816482,-118.3258554,1
+Camarillo,California,34.2176371,-119.0383541,2
+Chico,California,39.7284945,-121.8374777,3
+Chula Vista,California,32.6400541,-117.0841955,3
+Citrus Heights,California,38.7071247,-121.2810611,1
+Coachella,California,33.6794956,-116.17628,1
+Concord,California,37.9768525,-122.0335624,6
+Costa Mesa,California,33.6633386,-117.903317,4
+Danville,California,37.8215929,-121.99996,1
+Davis,California,38.545379,-121.744583,1
+Dublin,California,37.7021521,-121.9357918,1
+El Cajon,California,32.7947731,-116.962526,2
+Encinitas,California,33.0369867,-117.2919818,2
+Escondido,California,33.1216751,-117.0814849,3
+Fairfield,California,38.2493581,-122.039966,2
+Fresno,California,36.7295295,-119.70886126075588,11
+Hesperia,California,34.4263886,-117.3008784,3
+Huntington Beach,California,33.6783336,-118.0000166,5
+Inglewood,California,33.9562003,-118.353132,4
+La Mesa,California,32.7678288,-117.0230839,1
+La Quinta,California,33.677474,-116.2958789,1
+Laguna Niguel,California,33.5225261,-117.7075526,3
+Lake Elsinore,California,33.6680772,-117.3272615,1
+Lake Forest,California,33.6469261,-117.6859213,2
+Lakewood,California,33.8503463,-118.117191,5
+Lancaster,California,34.6981064,-118.1366153,4
+Long Beach,California,33.7690164,-118.191604,10
+Los Angeles,California,34.0536909,-118.242766,378
+Manteca,California,37.81623435,-121.22178815385232,2
+Mission Viejo,California,33.5965685,-117.659405,3
+Modesto,California,37.6390972,-120.9968782,3
+Montebello,California,34.0159398,-118.111975,1
+Moreno Valley,California,33.937517,-117.2305944,5
+Morgan Hill,California,37.130408,-121.6544974,1
+Murrieta,California,33.560832,-117.210656,1
+Oakland,California,37.8044557,-122.271356,13
+Oceanside,California,33.1958696,-117.3794834,5
+Ontario,California,34.065846,-117.6484304,1
+Oxnard,California,34.1976308,-119.1803818,4
+Pasadena,California,34.1476507,-118.1441551,11
+Pico Rivera,California,33.9830688,-118.096735,1
+Pomona,California,34.0553813,-117.7517496,5
+Rancho Cucamonga,California,34.1033192,-117.5751735,4
+Redding,California,40.5863563,-122.391675,1
+Redlands,California,34.0550328,-117.1827445,4
+Redondo Beach,California,33.8455911,-118.3886766,3
+Redwood City,California,37.4863239,-122.232523,1
+Riverside,California,33.9824949,-117.3742389,9
+Roseville,California,38.7521235,-121.2880059,7
+Sacramento,California,38.5810606,-121.493895,8
+Salinas,California,36.6744117,-121.655037,4
+San Bernardino,California,34.1083449,-117.2897652,3
+San Clemente,California,33.4270275,-117.6124179,1
+San Diego,California,32.7174202,-117.1627728,88
+San Francisco,California,37.7790262,-122.419906,261
+San Gabriel,California,34.0990733,-118.1085682,1
+San Jose,California,37.3361663,-121.890591,20
+San Luis Obispo,California,35.2827525,-120.659615,1
+San Mateo,California,37.5629997,-122.3253265,1
+Santa Ana,California,33.7494951,-117.8732213,8
+Santa Barbara,California,34.4221319,-119.702667,4
+Santa Clara,California,37.3541132,-121.955174,3
+Santa Maria,California,34.9531295,-120.435857,1
+Stockton,California,37.9577016,-121.2907796,5
+Sunnyvale,California,37.3688301,-122.036349,2
+Temecula,California,33.4946353,-117.1473661,1
+Thousand Oaks,California,34.1705609,-118.8375937,4
+Torrance,California,33.8358492,-118.3406288,2
+Vacaville,California,38.3565773,-121.9877444,1
+Vallejo,California,38.1040864,-122.2566367,3
+Visalia,California,36.3302284,-119.292058,2
+Westminster,California,33.7578725,-117.9859054,3
+Whittier,California,33.9708782,-118.030839,1
+Woodland,California,38.6786109,-121.7733285,2
+Yucaipa,California,34.033625,-117.0430865,1
+Arvada,Colorado,39.8005505,-105.0811573,1
+Aurora,Colorado,39.7405111,-104.8309947,15
+Broomfield,Colorado,39.9403995,-105.05208,2
+Colorado Springs,Colorado,38.8339578,-104.825348,9
+Commerce City,Colorado,39.8083196,-104.9338675,1
+Denver,Colorado,39.7392364,-104.984862,17
+Englewood,Colorado,39.6482059,-104.9879641,1
+Fort Collins,Colorado,40.5508527,-105.0668085,5
+Greeley,Colorado,40.4233142,-104.7091322,1
+Littleton,Colorado,39.613321,-105.016649,1
+Longmont,Colorado,40.1672117,-105.1019287,2
+Louisville,Colorado,39.977763,-105.1319296,11
+Loveland,Colorado,40.3977612,-105.0749801,3
+Parker,Colorado,39.5184514,-104.7612638,2
+Pueblo,Colorado,38.2544472,-104.609141,4
+Thornton,Colorado,39.8695516,-104.985181,3
+Bristol,Connecticut,41.6735209,-72.9464859,3
+Danbury,Connecticut,41.394817,-73.4540111,1
+Fairfield,Connecticut,41.1412078,-73.2637258,12
+Manchester,Connecticut,41.7834017,-72.5231973,4
+Meriden,Connecticut,41.5381535,-72.8070435,5
+Middletown,Connecticut,41.5623178,-72.6509061,7
+Milford,Connecticut,41.2222218,-73.0570603,3
+Norwich,Connecticut,41.5243537,-72.0759008,4
+Shelton,Connecticut,41.3164856,-73.0931641,1
+Waterbury,Connecticut,41.5538091,-73.0438362,5
+Dover,Delaware,39.158168,-75.5243682,6
+Newark,Delaware,39.6828358,-75.7515682,28
+Wilmington,Delaware,39.7459468,-75.546589,9
+Washington,District of Columbia,38.8950368,-77.0365427,4
+Apopka,Florida,28.6779683,-81.5115214,3
+Boca Raton,Florida,26.3586885,-80.0830984,2
+Boynton Beach,Florida,26.5256179,-80.0666026,4
+Coral Gables,Florida,25.72149,-80.2683838,1
+Coral Springs,Florida,26.271192,-80.2706044,4
+Daytona Beach,Florida,29.2108147,-81.0228331,2
+Delray Beach,Florida,26.4614625,-80.0728201,2
+Deltona,Florida,28.904843,-81.2273119,4
+Fort Lauderdale,Florida,26.1223084,-80.1433786,11
+Hialeah,Florida,25.8575963,-80.2781057,10
+Hollywood,Florida,26.0112014,-80.1494901,8
+Homestead,Florida,25.4718946,-80.4759905,2
+Jacksonville,Florida,30.3321838,-81.655651,38
+Jupiter,Florida,26.9342246,-80.0942087,1
+Kissimmee,Florida,28.2918995,-81.4075838,1
+Lakeland,Florida,28.0394654,-81.9498042,6
+Margate,Florida,26.2445263,-80.206436,1
+Melbourne,Florida,28.106471,-80.6371513,1
+Miami,Florida,25.7741728,-80.19362,33
+Miramar,Florida,25.9873137,-80.2322706,3
+North Miami,Florida,25.90560775,-80.17506955013091,2
+Orlando,Florida,28.5421109,-81.3790304,6
+Ormond Beach,Florida,29.2854132,-81.0557921,1
+Palm Coast,Florida,29.5541432,-81.2207673,3
+Pembroke Pines,Florida,26.0031465,-80.223937,4
+Pensacola,Florida,30.421309,-87.2169149,1
+Plantation,Florida,26.12744855,-80.25779069425029,3
+Pompano Beach,Florida,26.2378597,-80.1247667,2
+Port Orange,Florida,29.101628050000002,-81.01059617608054,1
+Port Saint Lucie,Florida,27.2939333,-80.3503283,3
+Saint Petersburg,Florida,27.7700475,-82.6359078,5
+Sanford,Florida,28.8117345,-81.2680223,1
+Tallahassee,Florida,30.4380832,-84.2809332,9
+Tamarac,Florida,26.2048464,-80.27080479659301,2
+Tampa,Florida,27.9477595,-82.458444,14
+West Palm Beach,Florida,26.715364,-80.0532942,3
+Athens,Georgia,33.9597677,-83.376398,4
+Atlanta,Georgia,33.7489924,-84.3902644,17
+Columbus,Georgia,32.4610708,-84.9880449,39
+East Point,Georgia,33.6795531,-84.4393724,1
+Macon,Georgia,32.8406946,-83.6324022,4
+Marietta,Georgia,33.9528472,-84.5496148,3
+Roswell,Georgia,34.02332,-84.360022,9
+Sandy Springs,Georgia,33.9242688,-84.3785379,4
+Smyrna,Georgia,33.883887,-84.5147454,4
+Warner Robins,Georgia,32.6200973,-83.606568,2
+Boise,Idaho,43.6166163,-116.200886,3
+Caldwell,Idaho,43.6678736,-116.6894156,1
+Lewiston,Idaho,46.4195913,-117.0216144,1
+Meridian,Idaho,43.6086295,-116.392326,2
+Pocatello,Idaho,42.8620287,-112.450627,3
+Twin Falls,Idaho,42.5704456,-114.4602554,1
+Arlington Heights,Illinois,42.0811563,-87.9802164,1
+Aurora,Illinois,41.7571701,-88.3147539,20
+Bloomington,Illinois,40.4797828,-88.9939147,6
+Bolingbrook,Illinois,41.7003302,-88.0717708,3
+Buffalo Grove,Illinois,42.1544205,-87.9589621,2
+Carol Stream,Illinois,41.9125286,-88.1347927,1
+Champaign,Illinois,40.1164841,-88.2430932,1
+Chicago,Illinois,41.8755616,-87.6244212,166
+Danville,Illinois,40.125222,-87.6304614,1
+Decatur,Illinois,39.8454163,-88.9524151,8
+Des Plaines,Illinois,42.0415823,-87.8873916,2
+Elmhurst,Illinois,41.8994745,-87.9403418,2
+Evanston,Illinois,42.0470043,-87.6846053,3
+Frankfort,Illinois,41.4958665,-87.8486613,2
+Freeport,Illinois,42.2966861,-89.6212271,2
+Glenview,Illinois,42.0700662,-87.8114044,1
+Highland Park,Illinois,42.1816919,-87.8003438,3
+Naperville,Illinois,41.7728699,-88.1479278,5
+Normal,Illinois,40.5092961,-88.9843937,1
+Oak Park,Illinois,41.8878145,-87.7887615,1
+Orland Park,Illinois,41.630663,-87.8536288,1
+Oswego,Illinois,41.6834778,-88.3525714,1
+Palatine,Illinois,42.1105779,-88.0336888,1
+Park Ridge,Illinois,42.0112329,-87.8406031,3
+Peoria,Illinois,40.6938609,-89.5891008,4
+Quincy,Illinois,39.9356016,-91.4098727,6
+Rockford,Illinois,42.2713945,-89.093966,8
+Romeoville,Illinois,41.6475306,-88.0895061,1
+Skokie,Illinois,42.0333694,-87.7333972,5
+Tinley Park,Illinois,41.5733669,-87.7844944,1
+Wheeling,Illinois,42.138889,-87.9310944,2
+Woodstock,Illinois,42.3147529,-88.4474302,3
+Bloomington,Indiana,39.1670396,-86.5342881,4
+Columbus,Indiana,39.2014405,-85.9213796,16
+Elkhart,Indiana,41.6819935,-85.9766671,1
+Greenwood,Indiana,39.6136578,-86.1066526,2
+Indianapolis,Indiana,39.7683331,-86.1583502,11
+La Porte,Indiana,41.6105983,-86.7225227,3
+Lafayette,Indiana,40.4167022,-86.8752869,6
+Lawrence,Indiana,39.8386516,-86.0252612,6
+Mishawaka,Indiana,41.6611642,-86.1807031,2
+New Albany,Indiana,38.2856247,-85.8241312,1
+New Castle,Indiana,39.9289351,-85.3702477,1
+Noblesville,Indiana,40.0455918,-86.0085955,2
+Portage,Indiana,41.5758708,-87.1761455,1
+Richmond,Indiana,39.8286897,-84.8898521,13
+South Bend,Indiana,41.6833813,-86.2500066,1
+Burlington,Iowa,40.8126922,-91.1020205,2
+Cedar Rapids,Iowa,41.9758872,-91.6704053,1
+Des Moines,Iowa,41.5910323,-93.6046655,5
+Dubuque,Iowa,42.5006243,-90.6647985,2
+Iowa City,Iowa,41.6612561,-91.5299106,1
+Marion,Iowa,42.0329753,-91.5987335,2
+Urbandale,Iowa,41.6274511,-93.7380243,2
+Waterloo,Iowa,42.498275,-92.3328743,1
+Garden City,Kansas,37.9716898,-100.8726618,3
+Manhattan,Kansas,39.1836082,-96.5716694,1
+Olathe,Kansas,38.8838856,-94.81887,2
+Overland Park,Kansas,38.9742502,-94.6851702,3
+Wichita,Kansas,37.6922361,-97.3375448,5
+Bowling Green,Kentucky,36.9903199,-86.4436018,2
+Florence,Kentucky,38.9989499,-84.6266111,3
+Georgetown,Kentucky,38.2097967,-84.5588311,3
+Henderson,Kentucky,37.8367513,-87.5907631,17
+Louisville,Kentucky,38.2542376,-85.759407,17
+Murray,Kentucky,36.6103334,-88.314761,2
+Owensboro,Kentucky,37.7742152,-87.1133304,2
+Richmond,Kentucky,37.7478572,-84.2946539,13
+Bossier City,Louisiana,32.515887,-93.7336536,2
+Kenner,Louisiana,29.9942265,-90.2417806,1
+Lafayette,Louisiana,30.2262187,-92.0178202,9
+Lake Charles,Louisiana,30.2305095,-93.2169807,2
+Monroe,Louisiana,32.5102427,-92.1032411,6
+Bangor,Maine,44.8036159,-68.7702127,2
+Lewiston,Maine,44.0951078,-70.2155454,1
+Baltimore,Maryland,39.2908816,-76.610759,21
+Clinton,Maryland,38.7651145,-76.8983059,10
+Columbia,Maryland,39.2156213,-76.8582049,9
+Gaithersburg,Maryland,39.1399187,-77.1929215,1
+Hagerstown,Maryland,39.6430455,-77.7191081,1
+Laurel,Maryland,39.0984317,-76.8485094,1
+Rockville,Maryland,39.0817985,-77.1516844,3
+Andover,Massachusetts,42.65717,-71.1408776,1
+Beverly,Massachusetts,42.5584284,-70.8800491,1
+Cambridge,Massachusetts,42.3750997,-71.1056157,3
+Everett,Massachusetts,42.40843,-71.0536625,8
+Franklin,Massachusetts,42.0834313,-71.396725,9
+Holyoke,Massachusetts,42.2071434,-72.60765,1
+Lawrence,Massachusetts,42.7070354,-71.1631137,15
+Leominster,Massachusetts,42.5267443,-71.7614891,2
+Lowell,Massachusetts,42.6414437,-71.3085329,7
+Malden,Massachusetts,42.4250964,-71.066163,2
+Marlborough,Massachusetts,42.3459271,-71.5522874,1
+New Bedford,Massachusetts,41.6362152,-70.934205,4
+Quincy,Massachusetts,42.2509914,-71.0037374,5
+Revere,Massachusetts,42.4084302,-71.0119948,3
+Ann Arbor,Michigan,42.2813722,-83.7484616,2
+Canton,Michigan,42.3076547,-83.4868961,2
+Dearborn,Michigan,42.3222599,-83.1763145,2
+Dearborn Heights,Michigan,42.3369816,-83.2732627,2
+Detroit,Michigan,42.3315509,-83.0466403,53
+Grand Rapids,Michigan,42.9632405,-85.6678639,5
+Holland,Michigan,42.7876022,-86.1090828,2
+Jackson,Michigan,42.2465036,-84.4016963,14
+Lansing,Michigan,42.7337712,-84.5553805,3
+Lincoln Park,Michigan,42.2505943,-83.1785361,2
+Midland,Michigan,43.6155825,-84.2472117,5
+Mount Pleasant,Michigan,43.597646,-84.7668495,1
+Oak Park,Michigan,42.4595317,-83.1821445,1
+Rochester Hills,Michigan,42.6583661,-83.1499322,1
+Roseville,Michigan,42.4972583,-82.9371409,4
+Royal Oak,Michigan,42.4894801,-83.1446485,2
+Saginaw,Michigan,43.4200387,-83.9490365,2
+Sterling Heights,Michigan,42.5803122,-83.0302033,3
+Taylor,Michigan,42.240872,-83.2696509,3
+Trenton,Michigan,42.1406552,-83.1800544,4
+Westland,Michigan,42.3238056,-83.4005321,3
+Apple Valley,Minnesota,44.7319094,-93.21772,2
+Coon Rapids,Minnesota,45.1728923,-93.3023898,1
+Cottage Grove,Minnesota,44.8277446,-92.9438218,1
+Eagan,Minnesota,44.818173,-93.1659179,3
+Lakeville,Minnesota,44.650051,-93.2432791,5
+Maple Grove,Minnesota,45.0984983,-93.4419222,2
+Minneapolis,Minnesota,44.9772995,-93.2654692,13
+Moorhead,Minnesota,46.8739081,-96.7538674,2
+Rochester,Minnesota,44.0234387,-92.4630182,8
+Roseville,Minnesota,45.0060767,-93.1566107,2
+Saint Cloud,Minnesota,45.5616075,-94.1642004,1
+Saint Paul,Minnesota,44.9497487,-93.0931028,2
+Woodbury,Minnesota,44.919896,-92.9339449,2
+Gulfport,Mississippi,30.3674198,-89.0928155,3
+Hattiesburg,Mississippi,31.3271189,-89.2903392,3
+Jackson,Mississippi,32.3086744,-90.1983063,18
+Southaven,Mississippi,34.9873822,-90.0034862,2
+Columbia,Missouri,38.951883,-92.3337366,3
+Gladstone,Missouri,39.2214765,-94.5719748,1
+Independence,Missouri,39.0924792,-94.4137923,2
+Jefferson City,Missouri,38.577359,-92.1724265,1
+Kirkwood,Missouri,38.5800713,-90.4069177,1
+Saint Charles,Missouri,38.783855,-90.481677,3
+Saint Louis,Missouri,38.6319657,-90.2428756,4
+Saint Peters,Missouri,38.791612,-90.5958468,1
+Springfield,Missouri,37.1968298,-93.2946576,14
+Billings,Montana,45.7874957,-108.49607,1
+Bozeman,Montana,45.6794293,-111.044047,1
+Great Falls,Montana,47.5048851,-111.29189,3
+Helena,Montana,46.5927425,-112.036277,2
+Missoula,Montana,46.8701049,-113.995267,1
+Fremont,Nebraska,41.4338363,-96.4960449,7
+Grand Island,Nebraska,40.924271,-98.338685,1
+Norfolk,Nebraska,42.0283379,-97.4169964,1
+Omaha,Nebraska,41.2587459,-95.9383758,14
+Henderson,Nevada,36.0301134,-114.9826194,2
+Las Vegas,Nevada,36.1672559,-115.148516,8
+North Las Vegas,Nevada,36.2005843,-115.121584,7
+Reno,Nevada,39.5261206,-119.8126581,3
+Sparks,Nevada,39.5404679,-119.7487235,3
+Concord,New Hampshire,43.207178,-71.537476,10
+Dover,New Hampshire,43.1981117,-70.8739761,5
+Nashua,New Hampshire,42.7656251,-71.4677032,2
+Atlantic City,New Jersey,39.3642852,-74.4229351,1
+Bayonne,New Jersey,40.6687141,-74.1143091,1
+Belleville,New Jersey,40.7937116,-74.1501438,4
+Bridgeton,New Jersey,39.427337,-75.2340768,1
+Clifton,New Jersey,40.8584328,-74.1637553,1
+East Orange,New Jersey,40.767323,-74.2048677,1
+Hackensack,New Jersey,40.8871438,-74.0410865,2
+Lakewood,New Jersey,40.0978929,-74.2176435,10
+Linden,New Jersey,40.6220478,-74.2445902,1
+Morristown,New Jersey,40.7992398,-74.47743585359405,5
+New Brunswick,New Jersey,40.4862174,-74.4518173,1
+Orange,New Jersey,40.7706562,-74.2326463,5
+Passaic,New Jersey,40.8567663,-74.1284764,1
+Paterson,New Jersey,40.9167654,-74.171811,6
+Perth Amboy,New Jersey,40.5200187,-74.2745215,4
+Plainfield,New Jersey,40.6337136,-74.4073737,6
+Vineland,New Jersey,39.4862777,-75.0254256,4
+Westfield,New Jersey,40.6589912,-74.3473717,4
+Albuquerque,New Mexico,35.0841034,-106.650985,7
+Carlsbad,New Mexico,32.4257456,-104.237612,5
+Clovis,New Mexico,34.405472,-103.2050709,1
+Farmington,New Mexico,36.7291152,-108.205445,3
+Las Cruces,New Mexico,32.3140354,-106.779807,3
+Rio Rancho,New Mexico,35.2702448,-106.6329806,1
+Santa Fe,New Mexico,35.6876096,-105.938456,2
+Auburn,New York,42.9320202,-76.5672029,6
+Buffalo,New York,42.8867166,-78.8783922,7
+Freeport,New York,40.6576071,-73.5835826,4
+Hempstead,New York,40.6736812,-73.6190736,4
+Jamestown,New York,42.0965167,-79.2380322,2
+Lindenhurst,New York,40.6867667,-73.3734547,1
+Long Beach,New York,40.5885508,-73.6582631,21
+Mount Vernon,New York,40.9125085,-73.8386504,5
+New Rochelle,New York,40.9115386,-73.7826363,4
+New York City,New York,40.7127281,-74.0060152,439
+Niagara Falls,New York,43.08436,-79.0614686,1
+Oceanside,New York,40.6390936,-73.6399765,8
+Rochester,New York,43.157285,-77.615214,20
+Rome,New York,43.2128473,-75.4557304,3
+Troy,New York,42.7284117,-73.6917878,6
+Utica,New York,43.1009031,-75.2326641,3
+Watertown,New York,43.9747838,-75.9107565,7
+Yonkers,New York,40.9312099,-73.8987469,6
+Asheville,North Carolina,35.6009498,-82.5540161,6
+Burlington,North Carolina,36.0956918,-79.4377991,7
+Cary,North Carolina,35.7882893,-78.7812081,3
+Chapel Hill,North Carolina,35.9131542,-79.05578,1
+Charlotte,North Carolina,35.2272086,-80.8430827,23
+Concord,North Carolina,35.4094178,-80.5800049,5
+Durham,North Carolina,35.996653,-78.9018053,5
+Fayetteville,North Carolina,35.0525759,-78.878292,12
+Gastonia,North Carolina,35.2622654,-81.1838186,1
+Goldsboro,North Carolina,35.3848841,-77.9927651,1
+Greensboro,North Carolina,36.0726355,-79.7919754,8
+Greenville,North Carolina,35.613224,-77.3724593,5
+Hickory,North Carolina,35.7333312,-81.3442915,2
+Jacksonville,North Carolina,34.7494749,-77.4208221,23
+Monroe,North Carolina,34.9854275,-80.5495112,6
+Raleigh,North Carolina,35.7803977,-78.6390989,12
+Thomasville,North Carolina,35.8831786,-80.081817,2
+Wilmington,North Carolina,34.2257282,-77.9447107,9
+Wilson,North Carolina,35.7212689,-77.9155395,3
+Fargo,North Dakota,46.877229,-96.789821,2
+Akron,Ohio,41.083064,-81.518485,9
+Bowling Green,Ohio,41.3747744,-83.6513229,4
+Cincinnati,Ohio,39.1014537,-84.5124602,12
+Cleveland,Ohio,41.4996574,-81.6936772,19
+Columbus,Ohio,39.9622601,-83.0007065,55
+Cuyahoga Falls,Ohio,41.1362729,-81.4828123,3
+Dublin,Ohio,40.0992294,-83.1140771,5
+Elyria,Ohio,41.3673191,-82.1073583,1
+Fairfield,Ohio,39.3458953,-84.5605031,8
+Grove City,Ohio,39.8814519,-83.0929645,1
+Hamilton,Ohio,39.3995067,-84.5613428,3
+Kent,Ohio,41.1513108,-81.3578047,3
+Lakewood,Ohio,41.4819932,-81.7981908,13
+Lancaster,Ohio,39.7136754,-82.5993294,15
+Lorain,Ohio,41.4673238,-82.1781904,5
+Marion,Ohio,40.5886259,-83.1287349,8
+Medina,Ohio,41.1383878,-81.8637474,3
+Mentor,Ohio,41.6664781,-81.3399769,1
+Newark,Ohio,40.0581205,-82.4012643,16
+Parma,Ohio,41.3822398,-81.7355692,3
+Springfield,Ohio,39.9234046,-83.810138,17
+Toledo,Ohio,41.6529143,-83.5378173,15
+Troy,Ohio,40.0394982,-84.2032767,8
+Broken Arrow,Oklahoma,36.0525993,-95.7908195,3
+Edmond,Oklahoma,35.6571367,-97.4649038,1
+Lawton,Oklahoma,34.6086854,-98.3903305,2
+Muskogee,Oklahoma,35.7478769,-95.3696909,2
+Norman,Oklahoma,35.2225717,-97.4394816,2
+Oklahoma City,Oklahoma,35.4729886,-97.5170536,11
+Tulsa,Oklahoma,36.1563122,-95.9927516,13
+Eugene,Oregon,44.0505054,-123.0950506,1
+Gresham,Oregon,45.4997475,-122.4309766,4
+Hillsboro,Oregon,45.5228939,-122.989827,2
+Medford,Oregon,42.3264181,-122.8718605,3
+Portland,Oregon,45.5202471,-122.674194,14
+Redmond,Oregon,44.2726203,-121.1739212,4
+Salem,Oregon,44.9391565,-123.033121,9
+Springfield,Oregon,44.0462362,-123.0220289,15
+Tigard,Oregon,45.4307473,-122.771933,3
+Allentown,Pennsylvania,40.6022059,-75.4712794,2
+Altoona,Pennsylvania,40.518681,-78.394736,1
+Bethlehem,Pennsylvania,40.6178915,-75.3786521,2
+Chester,Pennsylvania,39.849557,-75.3557458,4
+Lancaster,Pennsylvania,40.03813,-76.3056686,8
+Philadelphia,Pennsylvania,39.9527237,-75.1635262,262
+Reading,Pennsylvania,40.335345,-75.9279495,4
+York,Pennsylvania,39.9624588,-76.7277218,2
+Cranston,Rhode Island,41.779588,-71.4366813,4
+Providence,Rhode Island,41.8239891,-71.4128343,13
+Warwick,Rhode Island,41.6992717,-71.4586114,4
+Woonsocket,Rhode Island,42.0028761,-71.5147839,3
+Columbia,South Carolina,34.0007493,-81.0343313,11
+Florence,South Carolina,34.1984435,-79.7671658,4
+Mount Pleasant,South Carolina,32.7940651,-79.8625851,1
+North Charleston,South Carolina,32.8546197,-79.9748103,2
+Rock Hill,South Carolina,34.9248667,-81.0250784,1
+Summerville,South Carolina,33.0186699,-80.1762704,1
+Aberdeen,South Dakota,45.4649805,-98.487813,1
+Rapid City,South Dakota,44.0806041,-103.2280239,1
+Sioux Falls,South Dakota,43.5488256,-96.7307737,3
+Bartlett,Tennessee,35.2045329,-89.8739753,1
+Bristol,Tennessee,36.5945034,-82.1885212,4
+Chattanooga,Tennessee,35.0457219,-85.3094883,6
+Clarksville,Tennessee,36.5277607,-87.3588703,3
+Columbia,Tennessee,35.6150716,-87.0352831,10
+Franklin,Tennessee,35.925206,-86.8689419,6
+Hendersonville,Tennessee,36.3049177,-86.621443,2
+Jackson,Tennessee,35.6144446,-88.8177418,5
+Johnson City,Tennessee,36.3134398,-82.3534728,3
+Knoxville,Tennessee,35.9603948,-83.9210261,10
+Lebanon,Tennessee,36.2079779,-86.2910945,3
+Memphis,Tennessee,35.1335022,-89.9668758,14
+Murfreesboro,Tennessee,35.8460396,-86.3921096,4
+Nashville,Tennessee,36.1622767,-86.7742984,16
+Smyrna,Tennessee,35.9824598,-86.5199492,4
+Abilene,Texas,32.44645,-99.7475905,1
+Allen,Texas,33.1031744,-96.6705503,2
+Amarillo,Texas,35.2072185,-101.833824,7
+Arlington,Texas,32.7355816,-97.1071186,10
+Austin,Texas,30.2711286,-97.7436995,18
+Baytown,Texas,29.7355047,-94.9774274,1
+Beaumont,Texas,30.0860459,-94.1018461,2
+Bedford,Texas,32.844017,-97.1430671,2
+Brownsville,Texas,25.9015688,-97.4984005,4
+Bryan,Texas,30.6743643,-96.3699632,1
+Carrollton,Texas,32.9537349,-96.8902816,7
+Cedar Hill,Texas,32.5888072,-96.9553675,2
+College Station,Texas,30.6183939,-96.3455991,2
+Conroe,Texas,30.3118769,-95.4560512,1
+Coppell,Texas,32.9552598,-97.0155703,2
+Corpus Christi,Texas,27.7635302,-97.4033191,3
+Dallas,Texas,32.7762719,-96.7968559,79
+Deer Park,Texas,29.7052284,-95.1238204,1
+Edinburg,Texas,26.3013982,-98.1624501,2
+El Paso,Texas,31.7865623,-106.441207,10
+Fort Worth,Texas,32.753177,-97.3327459,12
+Frisco,Texas,33.1506744,-96.8236116,2
+Garland,Texas,32.912624,-96.6388833,3
+Grand Prairie,Texas,32.7459645,-96.9977846,7
+Grapevine,Texas,32.9337381,-97.0788754,1
+Haltom City,Texas,32.7995738,-97.2691817,2
+Harlingen,Texas,26.1907543,-97.6960599,2
+Houston,Texas,29.7589382,-95.3676974,186
+Huntsville,Texas,30.7235263,-95.5507771,10
+Irving,Texas,32.8295183,-96.9442177,5
+Keller,Texas,32.9299655,-97.2271249,1
+Laredo,Texas,27.5030915,-99.5075644,4
+League City,Texas,29.5074538,-95.0949303,2
+Lubbock,Texas,33.5634402,-101.8792389,4
+Mansfield,Texas,32.5631924,-97.1416768,2
+Mcallen,Texas,26.204114,-98.2300605,4
+Mesquite,Texas,32.7666103,-96.599472,3
+Missouri City,Texas,29.6185669,-95.5377215,1
+Odessa,Texas,31.8457149,-102.367687,4
+Pasadena,Texas,29.6910753,-95.2092076,9
+Pearland,Texas,29.5639758,-95.2864299,2
+Pharr,Texas,26.1947962,-98.1836216,2
+Plano,Texas,33.0136764,-96.6925096,8
+Port Arthur,Texas,29.8716717,-93.9333107,3
+Richardson,Texas,32.9481789,-96.7297206,1
+Round Rock,Texas,30.5085915,-97.6788056,3
+San Angelo,Texas,31.4649685,-100.4405094,2
+San Antonio,Texas,29.4246002,-98.4951405,27
+San Marcos,Texas,29.8826436,-97.9405828,1
+Texas City,Texas,29.396013,-94.9175485,2
+The Colony,Texas,33.0890094,-96.8863922,2
+Tyler,Texas,32.3512601,-95.3010624,2
+Waco,Texas,31.549333,-97.1466695,4
+Draper,Utah,40.5247777,-111.8627989,2
+Layton,Utah,41.0751048,-111.9741925,1
+Lehi,Utah,40.3881114,-111.8486019,2
+Logan,Utah,41.7313063,-111.8349145,1
+Murray,Utah,40.6667841,-111.888417,2
+Orem,Utah,40.2981599,-111.6944313,5
+Pleasant Grove,Utah,40.3640349,-111.7386884,2
+Provo,Utah,40.2337289,-111.6587085,4
+Salt Lake City,Utah,40.7596198,-111.8867975,5
+West Jordan,Utah,40.6061337,-111.9395211,2
+Alexandria,Virginia,38.8051095,-77.0470229,6
+Arlington,Virginia,38.800011,-80.3431526,21
+Charlottesville,Virginia,38.029306,-78.4766781,2
+Chesapeake,Virginia,36.7183708,-76.2466798,10
+Hampton,Virginia,37.0300969,-76.3452057,5
+Harrisonburg,Virginia,38.4493315,-78.8688833,4
+Newport News,Virginia,36.9775016,-76.42977,5
+Richmond,Virginia,37.5385087,-77.43428,13
+Salem,Virginia,37.293378,-80.054667,6
+Springfield,Virginia,38.7791227,-77.1861196,25
+Suffolk,Virginia,36.7282096,-76.5835703,4
+Virginia Beach,Virginia,36.8529841,-75.9774183,11
+Waynesboro,Virginia,38.0686668,-78.8893999,3
+Auburn,Washington,47.3075369,-122.2301808,1
+Bellevue,Washington,47.6144219,-122.192337,5
+Bellingham,Washington,48.7544012,-122.478836,2
+Covington,Washington,47.3657791,-122.100222,2
+Des Moines,Washington,47.398829,-122.3099093,5
+Edmonds,Washington,47.8105738,-122.3774952,5
+Everett,Washington,47.9793437,-122.2127011,1
+Kent,Washington,47.3826903,-122.2270272,3
+Longview,Washington,46.1377048,-122.934462,2
+Marysville,Washington,48.0517429,-122.1768209,2
+Olympia,Washington,47.0451022,-122.8950075,3
+Pasco,Washington,46.2306739,-119.0921,2
+Redmond,Washington,47.6694141,-122.1238767,2
+Renton,Washington,47.4799078,-122.2034496,1
+Seattle,Washington,47.6038321,-122.330062,210
+Spokane,Washington,47.6571934,-117.42351,5
+Vancouver,Washington,45.6306954,-122.6744557,3
+Wheeling,West Virginia,40.0639616,-80.7209149,2
+Appleton,Wisconsin,44.2613967,-88.4069744,2
+Eau Claire,Wisconsin,44.811349,-91.4984941,4
+Franklin,Wisconsin,42.888627,-88.0384276,5
+Green Bay,Wisconsin,44.5126379,-88.0125794,4
+Kenosha,Wisconsin,42.5846773,-87.8212263,3
+La Crosse,Wisconsin,43.8122836,-91.2514355,2
+Madison,Wisconsin,43.074761,-89.3837613,4
+Milwaukee,Wisconsin,43.0349931,-87.922497,22
+Sheboygan,Wisconsin,43.7508284,-87.71453,1
+Superior,Wisconsin,46.7207737,-92.1040796,2
+Waukesha,Wisconsin,43.0116784,-88.2314813,1
+Wausau,Wisconsin,44.9596017,-89.6298239,1
+West Allis,Wisconsin,43.0166806,-88.0070315,1
+Cheyenne,Wyoming,41.139981,-104.820246,1
+St. Charles,Illinois,41.9139808,-88.3128183,5
